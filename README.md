@@ -1,5 +1,5 @@
 Welcome to the OpenSSL Project
-==============================
+==============================================================================
 
 [![openssl logo]][www.openssl.org]
 
@@ -18,7 +18,7 @@ and Tim J. Hudson.
 The official Home Page of the OpenSSL Project is [www.openssl.org].
 
 Table of Contents
-=================
+=================================================================================
 
  - [Overview](#overview)
  - [Download](#download)
